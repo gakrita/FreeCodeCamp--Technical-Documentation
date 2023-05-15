@@ -113,7 +113,7 @@ span {
 #navbar {
   background-color: #f1f1f1;
   border-right: 2px solid rgba(0, 22, 22, 0.4);
-  animation: moveInLeft 2s ease-out;
+  animation: moveInLeft 2.5s ease-out;
 
   flex: 1 0 20%;
 }
@@ -194,6 +194,7 @@ span {
     border-bottom: 2px solid rgba(0, 22, 22, 0.4);
     overflow: auto;
     flex: 1 0 40%;
+    animation: moveInTop 2.5s ease-out;
   }
 
   #nav-header {
